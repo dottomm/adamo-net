@@ -1,0 +1,24 @@
+#intro {
+
+	background-color: #000;
+
+}
+
+.sec1{
+		background-color: #DD332D;
+
+}
+#footer{
+	background-color: #ccc;
+	color:#000;
+}
+
+
+#sidebar{
+background-color: #5188A2;
+}
+
+body .popover {
+	border: 2px solid red;
+  max-width: 830px;
+}
